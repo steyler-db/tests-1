@@ -25,6 +25,7 @@ This repository contains various types of tests and utilities (called
 "content" from now on) for testing the [Kata Containers](https://github.com/kata-containers)
 code repositories.
 ## minimum change 
+I will change this view, this pr is to confirm the AIs for this task.
 
 ## Getting the code
 
